@@ -13,6 +13,8 @@ public class Publisher {
 
         MqttConnectOptions options = new MqttConnectOptions();
         options.setCleanSession(false);
+        options.setUserName("esp32_goal_a");
+        options.setPassword("@Miky2004".toCharArray());
         options.setWill(TOPIC + "/LWT", "offline".getBytes(), 0, false);
 
         client.connect(options);
