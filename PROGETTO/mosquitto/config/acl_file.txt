@@ -1,0 +1,18 @@
+# esp32_goal_a: solo pubblica il suo goal
+user esp32_goal_a
+topic write cgp/locale1/foosball/+/events/goal/A
+
+# esp32_edge_s3: pubblica goal B, start, end, status
+user esp32_edge_s3
+topic write cgp/locale1/foosball/+/events/goal/B
+topic write cgp/locale1/foosball/+/events/start
+topic write cgp/locale1/foosball/+/events/end
+topic write cgp/locale1/edge/status
+
+# backend: legge e scrive tutto
+user backend_service
+topic readwrite cgp/#
+
+# frontend: solo lettura
+user frontend_ws
+topic read cgp/#

@@ -36,3 +36,137 @@
 1782638357: New connection from 172.18.0.1:41532 on port 1883.
 1782638358: New client connected from 172.18.0.1:41532 as publisher-goal-a (p4, c0, k60).
 1782638364: Client publisher-goal-a [172.18.0.1:41532] disconnected.
+1782660006: mosquitto version 2.1.2 starting
+1782660006: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660006: Bridge support available.
+1782660006: Persistence support available.
+1782660006: TLS support available.
+1782660006: TLS-PSK support available.
+1782660006: Websockets support available.
+1782660006: Opening ipv4 listen socket on port 1883.
+1782660006: Opening ipv6 listen socket on port 1883.
+1782660006: Opening ipv4 listen socket on port 9001.
+1782660006: Opening ipv6 listen socket on port 9001.
+1782660006: mosquitto version 2.1.2 running
+1782660267: mosquitto version 2.1.2 terminating
+1782660267: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660267: mosquitto version 2.1.2 starting
+1782660267: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660267: Bridge support available.
+1782660267: Persistence support available.
+1782660267: TLS support available.
+1782660267: TLS-PSK support available.
+1782660267: Websockets support available.
+1782660267: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660267: mosquitto version 2.1.2 terminating
+1782660267: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660347: mosquitto version 2.1.2 starting
+1782660347: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660347: Bridge support available.
+1782660347: Persistence support available.
+1782660347: TLS support available.
+1782660347: TLS-PSK support available.
+1782660347: Websockets support available.
+1782660347: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660347: mosquitto version 2.1.2 terminating
+1782660347: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660350: mosquitto version 2.1.2 starting
+1782660350: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660350: Bridge support available.
+1782660350: Persistence support available.
+1782660350: TLS support available.
+1782660350: TLS-PSK support available.
+1782660350: Websockets support available.
+1782660350: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660350: mosquitto version 2.1.2 terminating
+1782660350: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660354: mosquitto version 2.1.2 starting
+1782660354: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660354: Bridge support available.
+1782660354: Persistence support available.
+1782660354: TLS support available.
+1782660354: TLS-PSK support available.
+1782660354: Websockets support available.
+1782660354: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660354: mosquitto version 2.1.2 terminating
+1782660354: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660357: mosquitto version 2.1.2 starting
+1782660357: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660357: Bridge support available.
+1782660357: Persistence support available.
+1782660357: TLS support available.
+1782660357: TLS-PSK support available.
+1782660357: Websockets support available.
+1782660357: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660357: mosquitto version 2.1.2 terminating
+1782660357: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660365: mosquitto version 2.1.2 starting
+1782660365: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660365: Bridge support available.
+1782660365: Persistence support available.
+1782660365: TLS support available.
+1782660365: TLS-PSK support available.
+1782660365: Websockets support available.
+1782660365: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660365: mosquitto version 2.1.2 terminating
+1782660365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660442: mosquitto version 2.1.2 starting
+1782660442: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660442: Bridge support available.
+1782660442: Persistence support available.
+1782660442: TLS support available.
+1782660442: TLS-PSK support available.
+1782660442: Websockets support available.
+1782660442: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660442: mosquitto version 2.1.2 terminating
+1782660442: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660489: mosquitto version 2.1.2 starting
+1782660489: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660489: Bridge support available.
+1782660489: Persistence support available.
+1782660489: TLS support available.
+1782660489: TLS-PSK support available.
+1782660489: Websockets support available.
+1782660489: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660489: mosquitto version 2.1.2 terminating
+1782660489: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660507: mosquitto version 2.1.2 starting
+1782660507: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660507: Bridge support available.
+1782660507: Persistence support available.
+1782660507: TLS support available.
+1782660507: TLS-PSK support available.
+1782660507: Websockets support available.
+1782660507: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660507: mosquitto version 2.1.2 terminating
+1782660507: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660509: mosquitto version 2.1.2 starting
+1782660509: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660509: Bridge support available.
+1782660509: Persistence support available.
+1782660509: TLS support available.
+1782660509: TLS-PSK support available.
+1782660509: Websockets support available.
+1782660509: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660509: mosquitto version 2.1.2 terminating
+1782660509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660511: mosquitto version 2.1.2 starting
+1782660511: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660511: Bridge support available.
+1782660511: Persistence support available.
+1782660511: TLS support available.
+1782660511: TLS-PSK support available.
+1782660511: Websockets support available.
+1782660511: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660511: mosquitto version 2.1.2 terminating
+1782660511: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1782660570: mosquitto version 2.1.2 starting
+1782660570: Config loaded from /mosquitto/config/mosquitto.conf.
+1782660570: Bridge support available.
+1782660570: Persistence support available.
+1782660570: TLS support available.
+1782660570: TLS-PSK support available.
+1782660570: Websockets support available.
+1782660570: password-file: Error: Unable to open pwfile "/mosquitto/config/mosquitto.pwd".
+1782660570: mosquitto version 2.1.2 terminating
+1782660570: Saving in-memory database to /mosquitto/data//mosquitto.db.
