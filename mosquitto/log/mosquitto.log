@@ -35,3 +35,4 @@
 1782638353: New client connected from 172.18.0.1:41522 as subscriber-backend (p4, c1, k60).
 1782638357: New connection from 172.18.0.1:41532 on port 1883.
 1782638358: New client connected from 172.18.0.1:41532 as publisher-goal-a (p4, c0, k60).
+1782638364: Client publisher-goal-a [172.18.0.1:41532] disconnected.
